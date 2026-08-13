@@ -1,0 +1,453 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hnlinks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-25T22:55:26Z",
+            "owner": "dit7ya",
+            "repo": "hnlinks",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HN Unread Comments",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-10-26T16:42:30Z",
+            "owner": "janhancic",
+            "repo": "hn-unread-comments",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hnHiringFilter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-10-22T13:05:38Z",
+            "owner": "janhancic",
+            "repo": "hnHiringFilter",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HN Favourite Users",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-10-15T19:54:58Z",
+            "owner": "janhancic",
+            "repo": "hn-favourite-users",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HNReader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-11-05T13:56:47Z",
+            "owner": "mattrighetti",
+            "repo": "HNReaderApp",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "touchHNews",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-08-13T16:02:19Z",
+            "owner": "mrmekon",
+            "repo": "toucHNews",
+            "stars": 193
+          }
+        }
+      ],
+      "title": "macOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hacki for Hacker News",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T21:28:38Z",
+            "owner": "Livinglist",
+            "repo": "Hacki",
+            "stars": 1585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gem for Hacker News",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-12T08:44:11Z",
+            "owner": "Livinglist",
+            "repo": "Gem",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iHNews",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2012-04-25T19:09:34Z",
+            "owner": "guidefreitas",
+            "repo": "iHNews",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "iOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hacki for Hacker News",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T21:28:38Z",
+            "owner": "Livinglist",
+            "repo": "Hacki",
+            "stars": 1585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glider for Hacker News",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-01T02:13:02Z",
+            "owner": "Mosc",
+            "repo": "Glider",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HN-Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-02T14:19:36Z",
+            "owner": "manmal",
+            "repo": "hn-android",
+            "stars": 496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker News client for Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-08-25T15:04:28Z",
+            "owner": "bishopmatthew",
+            "repo": "HackerNews",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pumpkin Reader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-12-11T07:13:11Z",
+            "owner": "pumpkinz",
+            "repo": "pumpkin-reader",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hacker News Emacs Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-11-24T08:49:28Z",
+            "owner": "clarete",
+            "repo": "hackernews.el",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gnus Backend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-06-30T12:56:02Z",
+            "owner": "dickmao",
+            "repo": "nnhackernews",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Emacs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Haxor-News",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-22T02:41:12Z",
+            "owner": "donnemartin",
+            "repo": "haxor-news",
+            "stars": 4088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circumflex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T10:47:32Z",
+            "owner": "bensadeh",
+            "repo": "circumflex",
+            "stars": 2053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyhn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T02:35:41Z",
+            "owner": "toxinu",
+            "repo": "pyhn",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker News ncurses CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-17T16:13:37Z",
+            "owner": "andrewstuart",
+            "repo": "hn",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker Top",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2011-12-11T03:08:07Z",
+            "owner": "pkrumins",
+            "repo": "hacker-top",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hackernews CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-16T17:11:45Z",
+            "owner": "mtharrison",
+            "repo": "hackernews",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gohn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-30T19:06:04Z",
+            "owner": "gedex",
+            "repo": "gohn",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackerFeed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-01T18:25:58Z",
+            "owner": "pratyushprakash",
+            "repo": "HackerFeed",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node HackerNews",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2013-05-12T18:54:14Z",
+            "owner": "chronick",
+            "repo": "node-hn",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Command Line"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hacker News Undocumented Features and Behaviors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-18T21:42:23Z",
+            "owner": "minimaxir",
+            "repo": "hacker-news-undocumented",
+            "stars": 3786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker News Groups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-28T23:25:16Z",
+            "owner": "antontarasenko",
+            "repo": "hacker-news-groups",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker News Headlines",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:50.676Z",
+    "original_repository": "cheeaun/awesome-hacker-news",
+    "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
+    "enhanced_repository": "enhansome/enhansome-hacker-news",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hacker News with stars"
+  }
+}
