@@ -240,7 +240,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Command Line
 
 * [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,088 | 🐛 42 | 🌐 Python | 📅 2022-04-22
-* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,053 | 🐛 1 | 🌐 Go | 📅 2026-08-10
+* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,054 | 🐛 1 | 🌐 Go | 📅 2026-08-10
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 273 | 🐛 0 | 🌐 Go | 📅 2023-03-17
 * [Hacker Top](https://github.com/pkrumins/hacker-top) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2011-12-11
@@ -281,4 +281,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
