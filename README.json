@@ -117,7 +117,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-15T09:54:38Z",
+            "last_commit": "2026-08-16T10:36:18Z",
             "owner": "Livinglist",
             "repo": "Hacki",
             "stars": 1586
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-15T09:54:38Z",
+            "last_commit": "2026-08-16T10:36:18Z",
             "owner": "Livinglist",
             "repo": "Hacki",
             "stars": 1586
@@ -278,7 +278,7 @@
             "last_commit": "2022-04-22T02:41:12Z",
             "owner": "donnemartin",
             "repo": "haxor-news",
-            "stars": 4087
+            "stars": 4088
           }
         },
         {
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:00:31.229Z",
+    "last_updated": "2026-08-16T14:01:13.284Z",
     "original_repository": "cheeaun/awesome-hacker-news",
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
     "enhanced_repository": "enhansome/enhansome-hacker-news",

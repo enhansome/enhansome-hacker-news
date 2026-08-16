@@ -185,7 +185,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### iOS
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,586 | 🐛 38 | 🌐 Dart | 📅 2026-08-15
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,586 | 🐛 38 | 🌐 Dart | 📅 2026-08-16
 * [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2026-05-12
 * [iHNews](https://github.com/guidefreitas/iHNews) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2012-04-25
 * [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
@@ -204,7 +204,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,586 | 🐛 38 | 🌐 Dart | 📅 2026-08-15
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,586 | 🐛 38 | 🌐 Dart | 📅 2026-08-16
 * [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 578 | 🐛 44 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 496 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 227 | 🐛 60 | 🌐 Java | 📅 2016-08-25
@@ -239,7 +239,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Command Line
 
-* [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,087 | 🐛 42 | 🌐 Python | 📅 2022-04-22
+* [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,088 | 🐛 42 | 🌐 Python | 📅 2022-04-22
 * [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,054 | 🐛 1 | 🌐 Go | 📅 2026-08-10
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 273 | 🐛 0 | 🌐 Go | 📅 2023-03-17
@@ -281,4 +281,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
