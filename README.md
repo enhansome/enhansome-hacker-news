@@ -185,8 +185,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### iOS
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,588 | 🐛 40 | 🌐 Dart | 📅 2026-08-18
-* [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2026-05-12
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,588 | 🐛 41 | 🌐 Dart | 📅 2026-08-18
+* [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 85 | 🐛 0 | 🌐 Swift | 📅 2026-05-12
 * [iHNews](https://github.com/guidefreitas/iHNews) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2012-04-25
 * [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
 * [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
@@ -204,7 +204,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,588 | 🐛 40 | 🌐 Dart | 📅 2026-08-18
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,588 | 🐛 41 | 🌐 Dart | 📅 2026-08-18
 * [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 577 | 🐛 44 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 496 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 227 | 🐛 60 | 🌐 Java | 📅 2016-08-25
@@ -240,7 +240,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Command Line
 
 * [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,088 | 🐛 42 | 🌐 Python | 📅 2022-04-22
-* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,062 | 🐛 1 | 🌐 Go | 📅 2026-08-17
+* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,061 | 🐛 1 | 🌐 Go | 📅 2026-08-17
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2023-03-17
 * [Hacker Top](https://github.com/pkrumins/hacker-top) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2011-12-11
@@ -266,7 +266,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,786 | 🐛 36 | 📅 2025-01-18
+* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,785 | 🐛 36 | 📅 2025-01-18
 * [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups) ⭐ 124 | 🐛 2 | 📅 2019-02-28
 * [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 * [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)
@@ -281,4 +281,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

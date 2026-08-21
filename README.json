@@ -136,7 +136,7 @@
                 "last_commit": "2026-05-12T08:44:11Z",
                 "owner": "Livinglist",
                 "repo": "Gem",
-                "stars": 84
+                "stars": 85
               }
             },
             {
@@ -307,7 +307,7 @@
                 "last_commit": "2026-08-17T11:36:50Z",
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2062
+                "stars": 2061
               }
             },
             {
@@ -438,7 +438,7 @@
             "last_commit": "2025-01-18T21:42:23Z",
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3786
+            "stars": 3785
           }
         },
         {
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:21:09.212Z",
+    "last_updated": "2026-08-21T14:19:45.816Z",
     "original_repository": "cheeaun/awesome-hacker-news",
     "original_repository_id": 33075597,
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
