@@ -74,6 +74,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Modern Hacker News Userstyle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268008320,
+                "language": "CSS",
+                "last_commit": "2023-06-26T18:14:25Z",
+                "owner": "losuler",
+                "repo": "hacker-news-userstyle",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Userstyles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "HNReader",
               "description": null,
               "children": [],
@@ -118,10 +140,10 @@
                 "archived": false,
                 "id": 441600120,
                 "language": "Dart",
-                "last_commit": "2026-08-23T11:37:11Z",
+                "last_commit": "2026-08-24T09:38:59Z",
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1588
+                "stars": 1586
               }
             },
             {
@@ -170,10 +192,10 @@
                 "archived": false,
                 "id": 441600120,
                 "language": "Dart",
-                "last_commit": "2026-08-23T11:37:11Z",
+                "last_commit": "2026-08-24T09:38:59Z",
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1588
+                "stars": 1586
               }
             },
             {
@@ -245,6 +267,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Sublime Hacker News Reader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7976057,
+                "language": "Python",
+                "last_commit": "2013-04-03T15:20:56Z",
+                "owner": "Dimillian",
+                "repo": "Sublime-Hacker-News-Reader",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sublime Text plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Hacker News Emacs Client",
               "description": null,
               "children": [],
@@ -304,10 +348,10 @@
                 "archived": false,
                 "id": 283105657,
                 "language": "Go",
-                "last_commit": "2026-08-17T11:36:50Z",
+                "last_commit": "2026-08-24T09:03:00Z",
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2060
+                "stars": 2061
               }
             },
             {
@@ -419,6 +463,50 @@
           "description": null,
           "node_type": "group",
           "title": "Command Line"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alfred Hacker News Workflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7614469,
+                "language": "Python",
+                "last_commit": "2014-05-05T09:36:21Z",
+                "owner": "loris",
+                "repo": "alfred-hackernews-workflow",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alfred workflows"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pebble HN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14643566,
+                "language": "C",
+                "last_commit": "2014-01-10T00:19:02Z",
+                "owner": "luisivan",
+                "repo": "pebble-hn",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Watch"
         }
       ],
       "title": "Apps"
@@ -461,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:01:51.771Z",
+    "last_updated": "2026-08-24T14:14:40.279Z",
     "original_repository": "cheeaun/awesome-hacker-news",
     "original_repository_id": 33075597,
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
