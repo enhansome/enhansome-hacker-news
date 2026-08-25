@@ -210,7 +210,7 @@
                 "last_commit": "2024-07-01T02:13:02Z",
                 "owner": "Mosc",
                 "repo": "Glider",
-                "stars": 577
+                "stars": 578
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-08-24T09:03:00Z",
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2061
+                "stars": 2062
               }
             },
             {
@@ -526,7 +526,7 @@
             "last_commit": "2025-01-18T21:42:23Z",
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3785
+            "stars": 3786
           }
         },
         {
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:04.398Z",
+    "last_updated": "2026-08-25T06:03:35.475Z",
     "original_repository": "cheeaun/awesome-hacker-news",
     "original_repository_id": 33075597,
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
