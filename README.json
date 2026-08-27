@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 518728775,
                 "language": "Swift",
-                "last_commit": "2026-05-12T08:44:11Z",
+                "last_commit": "2026-08-27T01:18:36Z",
                 "owner": "Livinglist",
                 "repo": "Gem",
                 "stars": 86
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 283105657,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:03:00Z",
+                "last_commit": "2026-08-27T11:36:42Z",
                 "owner": "bensadeh",
                 "repo": "circumflex",
                 "stars": 2063
@@ -549,9 +549,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:27:51.637Z",
-    "original_repository": "cheeaun/awesome-hacker-news",
-    "original_repository_id": 33075597,
+    "last_updated": "2026-08-27T11:42:34.332Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 33075597,
+      "language": null,
+      "last_commit": "2026-07-28T09:40:10Z",
+      "owner": "cheeaun",
+      "repo": "awesome-hacker-news",
+      "stars": 1413
+    },
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
