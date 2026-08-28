@@ -18,7 +18,8 @@
                 "owner": "dit7ya",
                 "repo": "hnlinks",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "janhancic",
                 "repo": "hn-unread-comments",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "janhancic",
                 "repo": "hnHiringFilter",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "janhancic",
                 "repo": "hn-favourite-users",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "losuler",
                 "repo": "hacker-news-userstyle",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "mrmekon",
                 "repo": "toucHNews",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -140,11 +147,12 @@
                 "archived": false,
                 "id": 441600120,
                 "language": "Dart",
-                "last_commit": "2026-08-24T09:38:59Z",
+                "last_commit": "2026-08-28T21:01:08Z",
                 "owner": "Livinglist",
                 "repo": "Hacki",
                 "stars": 1586
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -155,11 +163,12 @@
                 "archived": false,
                 "id": 518728775,
                 "language": "Swift",
-                "last_commit": "2026-08-27T01:18:36Z",
+                "last_commit": "2026-08-28T18:56:08Z",
                 "owner": "Livinglist",
                 "repo": "Gem",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "guidefreitas",
                 "repo": "iHNews",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -192,11 +202,12 @@
                 "archived": false,
                 "id": 441600120,
                 "language": "Dart",
-                "last_commit": "2026-08-24T09:38:59Z",
+                "last_commit": "2026-08-28T21:01:08Z",
                 "owner": "Livinglist",
                 "repo": "Hacki",
                 "stars": 1586
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -211,7 +222,8 @@
                 "owner": "Mosc",
                 "repo": "Glider",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "manmal",
                 "repo": "hn-android",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "bishopmatthew",
                 "repo": "HackerNews",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "pumpkinz",
                 "repo": "pumpkin-reader",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -278,7 +293,8 @@
                 "owner": "Dimillian",
                 "repo": "Sublime-Hacker-News-Reader",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -300,7 +316,8 @@
                 "owner": "clarete",
                 "repo": "hackernews.el",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -315,7 +332,8 @@
                 "owner": "dickmao",
                 "repo": "nnhackernews",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -336,8 +354,9 @@
                 "last_commit": "2022-04-22T02:41:12Z",
                 "owner": "donnemartin",
                 "repo": "haxor-news",
-                "stars": 4088
-              }
+                "stars": 4089
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -351,8 +370,9 @@
                 "last_commit": "2026-08-27T11:36:42Z",
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2063
-              }
+                "stars": 2065
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -367,7 +387,8 @@
                 "owner": "toxinu",
                 "repo": "pyhn",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "andrewstuart",
                 "repo": "hn",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -397,7 +419,8 @@
                 "owner": "pkrumins",
                 "repo": "hacker-top",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -412,7 +435,8 @@
                 "owner": "mtharrison",
                 "repo": "hackernews",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -427,7 +451,8 @@
                 "owner": "gedex",
                 "repo": "gohn",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "pratyushprakash",
                 "repo": "HackerFeed",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "chronick",
                 "repo": "node-hn",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -479,7 +506,8 @@
                 "owner": "loris",
                 "repo": "alfred-hackernews-workflow",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -501,7 +529,8 @@
                 "owner": "luisivan",
                 "repo": "pebble-hn",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:13:11.353Z"
             }
           ],
           "description": null,
@@ -527,7 +556,8 @@
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
             "stars": 3786
-          }
+          },
+          "first_seen": "2026-08-28T23:13:11.353Z"
         },
         {
           "node_type": "item",
@@ -542,14 +572,15 @@
             "owner": "antontarasenko",
             "repo": "hacker-news-groups",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T23:13:11.353Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:03:56.536Z",
+    "last_updated": "2026-08-28T23:13:11.353Z",
     "original_repository_info": {
       "archived": false,
       "id": 33075597,
@@ -557,7 +588,7 @@
       "last_commit": "2026-07-28T09:40:10Z",
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1413
+      "stars": 1415
     },
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
