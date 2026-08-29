@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browse Links in HackerNews Threads, Fast!",
+                "homepage": "https://addons.mozilla.org/en-US/firefox/addon/hnlinks/",
                 "id": 297626311,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-25T22:55:26Z",
+                "open_issues": 11,
                 "owner": "dit7ya",
                 "repo": "hnlinks",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "browser-extension",
+                  "firefox",
+                  "firefox-extension",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Google Chrome extension that shows unread comments on Hacker News",
+                "homepage": null,
                 "id": 940212,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-10-26T16:42:30Z",
+                "open_issues": 0,
                 "owner": "janhancic",
                 "repo": "hn-unread-comments",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bookmarklet to show jobs from selected citys in monthly \"Ask HN: Who is hiring?\" threads.",
+                "homepage": null,
                 "id": 7923540,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-10-22T13:05:38Z",
+                "open_issues": 0,
                 "owner": "janhancic",
                 "repo": "hnHiringFilter",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Highlights your favourite users on Hacker News (http://news.ycombinator.com/)",
+                "homepage": "https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo",
                 "id": 6518186,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-10-15T19:54:58Z",
+                "open_issues": 1,
                 "owner": "janhancic",
                 "repo": "hn-favourite-users",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -83,12 +108,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern light & dark Hacker News userstyle.",
+                "homepage": null,
                 "id": 268008320,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-06-26T18:14:25Z",
+                "open_issues": 1,
                 "owner": "losuler",
                 "repo": "hacker-news-userstyle",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "dark",
+                  "hacker-news",
+                  "light",
+                  "stylus",
+                  "theme",
+                  "userstyle"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -106,12 +143,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News client for macOS",
+                "homepage": null,
                 "id": 376884445,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-05T13:56:47Z",
+                "open_issues": 0,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "application",
+                  "hacker-news",
+                  "hackernews-client",
+                  "macos",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -122,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News (YCombinator) news feed for the Mac Touch Bar",
+                "homepage": null,
                 "id": 98459268,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-13T16:02:19Z",
+                "open_issues": 1,
                 "owner": "mrmekon",
                 "repo": "toucHNews",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -145,12 +198,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly customizable, open-source Hacker News client.",
+                "homepage": "https://livinglist.github.io/Hacki/",
                 "id": 441600120,
                 "language": "Dart",
-                "last_commit": "2026-08-28T21:01:08Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:24:57Z",
+                "open_issues": 35,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1586
+                "stars": 1586,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "dart",
+                  "flutter",
+                  "flutter-app",
+                  "flutter-bloc",
+                  "hacker-news",
+                  "hacker-news-client",
+                  "ios",
+                  "ios-app",
+                  "mobile-app"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -161,12 +231,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another Hacker News client built with SwiftUI.",
+                "homepage": "https://livinglist.github.io/Gem/",
                 "id": 518728775,
                 "language": "Swift",
-                "last_commit": "2026-08-28T18:56:08Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:55:33Z",
+                "open_issues": 0,
                 "owner": "Livinglist",
                 "repo": "Gem",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "hacker-news",
+                  "hacker-news-app",
+                  "hacker-news-client",
+                  "ios",
+                  "ios-app",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -177,12 +260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another iOS Y Combinator Hacker News App",
+                "homepage": null,
                 "id": 3967183,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2012-04-25T19:09:34Z",
+                "open_issues": 0,
                 "owner": "guidefreitas",
                 "repo": "iHNews",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -200,12 +288,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly customizable, open-source Hacker News client.",
+                "homepage": "https://livinglist.github.io/Hacki/",
                 "id": 441600120,
                 "language": "Dart",
-                "last_commit": "2026-08-28T21:01:08Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:24:57Z",
+                "open_issues": 35,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1586
+                "stars": 1586,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "dart",
+                  "flutter",
+                  "flutter-app",
+                  "flutter-bloc",
+                  "hacker-news",
+                  "hacker-news-client",
+                  "ios",
+                  "ios-app",
+                  "mobile-app"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -216,12 +321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.",
+                "homepage": null,
                 "id": 292088887,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2024-07-01T02:13:02Z",
+                "open_issues": 44,
                 "owner": "Mosc",
                 "repo": "Glider",
-                "stars": 578
+                "stars": 578,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -232,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News client with a focus on reliability and usability.",
+                "homepage": "https://play.google.com/store/apps/details?id=com.manuelmaly.hn",
                 "id": 5568881,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-06-02T14:19:36Z",
+                "open_issues": 34,
                 "owner": "manmal",
                 "repo": "hn-android",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -248,12 +363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source Hacker News client for Android.",
+                "homepage": null,
                 "id": 7919082,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-08-25T15:04:28Z",
+                "open_issues": 60,
                 "owner": "bishopmatthew",
                 "repo": "HackerNews",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -264,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News reader for Android with material design, done right.",
+                "homepage": "http://pumpkinz.io",
                 "id": 37982751,
                 "language": "Java",
+                "license": "WTFPL",
                 "last_commit": "2018-12-11T07:13:11Z",
+                "open_issues": 7,
                 "owner": "pumpkinz",
                 "repo": "pumpkin-reader",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -287,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read Hacker News front page right from Sublime Text. ",
+                "homepage": null,
                 "id": 7976057,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-04-03T15:20:56Z",
+                "open_issues": 0,
                 "owner": "Dimillian",
                 "repo": "Sublime-Hacker-News-Reader",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -310,12 +440,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News client for Emacs",
+                "homepage": null,
                 "id": 5906028,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-24T08:49:28Z",
+                "open_issues": 6,
                 "owner": "clarete",
                 "repo": "hackernews.el",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "emacs",
+                  "emacs-lisp",
+                  "hacker-news",
+                  "hacker-news-client"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -326,12 +466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gnus backend for Hacker News",
+                "homepage": null,
                 "id": 201507219,
                 "language": "Emacs Lisp",
+                "license": null,
                 "last_commit": "2026-06-30T12:56:02Z",
+                "open_issues": 0,
                 "owner": "dickmao",
                 "repo": "nnhackernews",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -349,12 +494,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browse Hacker News like a haxor: A Hacker News command line interface (CLI).",
+                "homepage": null,
                 "id": 46246431,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-22T02:41:12Z",
+                "open_issues": 42,
                 "owner": "donnemartin",
                 "repo": "haxor-news",
-                "stars": 4089
+                "stars": 4089,
+                "topics": [
+                  "cli",
+                  "client",
+                  "developer-tools",
+                  "hacker-news",
+                  "hacker-news-client",
+                  "hacker-news-reader",
+                  "linux",
+                  "macos",
+                  "programming",
+                  "python",
+                  "shell",
+                  "terminal",
+                  "utilities",
+                  "utility",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -365,12 +531,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌿 It's Hacker News in your terminal",
+                "homepage": null,
                 "id": 283105657,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:36:42Z",
+                "open_issues": 1,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2065
+                "stars": 2065,
+                "topics": [
+                  "cli",
+                  "client",
+                  "command-line",
+                  "console",
+                  "hacker",
+                  "hacker-news",
+                  "hackernews",
+                  "news",
+                  "reader",
+                  "terminal",
+                  "tui",
+                  "ycombinator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -381,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker news command line client",
+                "homepage": null,
                 "id": 7424096,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-15T02:35:41Z",
+                "open_issues": 4,
                 "owner": "toxinu",
                 "repo": "pyhn",
-                "stars": 385
+                "stars": 385,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -397,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hackernews ncurses CLI written in GO",
+                "homepage": null,
                 "id": 19658568,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-03-17T16:13:37Z",
+                "open_issues": 0,
                 "owner": "andrewstuart",
                 "repo": "hn",
-                "stars": 274
+                "stars": 274,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -413,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A top-like program for monitoring hacker news from the console",
+                "homepage": "http://www.catonmat.net/blog/follow-hacker-news-from-the-console/",
                 "id": 388500,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2011-12-11T03:08:07Z",
+                "open_issues": 3,
                 "owner": "pkrumins",
                 "repo": "hacker-top",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -429,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line tool to print out the latest posts on Hacker News to your terminal.",
+                "homepage": null,
                 "id": 13810392,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-11-16T17:11:45Z",
+                "open_issues": 2,
                 "owner": "mtharrison",
                 "repo": "hackernews",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -445,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News in the terminal",
+                "homepage": null,
                 "id": 11855477,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-09-30T19:06:04Z",
+                "open_issues": 2,
                 "owner": "gedex",
                 "repo": "gohn",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -461,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read Hacker News right from your terminal",
+                "homepage": null,
                 "id": 95965920,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-07-01T18:25:58Z",
+                "open_issues": 0,
                 "owner": "pratyushprakash",
                 "repo": "HackerFeed",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             },
@@ -477,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "hackernews reader for the command line, intended primarily for use in GeekTool",
+                "homepage": null,
                 "id": 9533305,
                 "language": "JavaScript",
+                "license": "WTFPL",
                 "last_commit": "2013-05-12T18:54:14Z",
+                "open_issues": 0,
                 "owner": "chronick",
                 "repo": "node-hn",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -500,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get Hacker News homepage items in Alfred 2.0",
+                "homepage": null,
                 "id": 7614469,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-05-05T09:36:21Z",
+                "open_issues": 2,
                 "owner": "loris",
                 "repo": "alfred-hackernews-workflow",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -523,12 +747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hacker News for Pebble",
+                "homepage": null,
                 "id": 14643566,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2014-01-10T00:19:02Z",
+                "open_issues": 2,
                 "owner": "luisivan",
                 "repo": "pebble-hn",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
             }
@@ -550,12 +779,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.",
+            "homepage": null,
             "id": 122493604,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-01-18T21:42:23Z",
+            "open_issues": 36,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3786
+            "stars": 3786,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
         },
@@ -566,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meetups and online groups for Hacker News readers",
+            "homepage": null,
             "id": 57416206,
             "language": null,
+            "license": null,
             "last_commit": "2019-02-28T23:25:16Z",
+            "open_issues": 2,
             "owner": "antontarasenko",
             "repo": "hacker-news-groups",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
         }
@@ -580,15 +819,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:11.353Z",
+    "last_updated": "2026-08-29T04:32:38.772Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
+      "homepage": null,
       "id": 33075597,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-28T09:40:10Z",
+      "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1415
+      "stars": 1415,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacker-news",
+        "hackernews",
+        "hacktoberfest",
+        "hn"
+      ]
     },
     "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
