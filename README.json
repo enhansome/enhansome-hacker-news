@@ -203,11 +203,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T03:24:57Z",
-                "open_issues": 35,
+                "last_commit": "2026-08-31T09:43:42Z",
+                "open_issues": 38,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1608,
+                "stars": 1613,
                 "topics": [
                   "android",
                   "android-app",
@@ -293,11 +293,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T03:24:57Z",
-                "open_issues": 35,
+                "last_commit": "2026-08-31T09:43:42Z",
+                "open_issues": 38,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1608,
+                "stars": 1613,
                 "topics": [
                   "android",
                   "android-app",
@@ -536,11 +536,11 @@
                 "id": 283105657,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-27T11:36:42Z",
+                "last_commit": "2026-08-31T11:23:55Z",
                 "open_issues": 1,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2066,
+                "stars": 2067,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:46:59.034Z",
+    "last_updated": "2026-08-31T19:42:03.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -827,11 +827,11 @@
       "id": 33075597,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-28T09:40:10Z",
+      "last_commit": "2026-08-31T11:22:37Z",
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1415,
+      "stars": 1416,
       "topics": [
         "awesome",
         "awesome-list",
@@ -841,7 +841,7 @@
         "hn"
       ]
     },
-    "original_repository_sha": "fe1ead402e860da5271d6277e516d485c894e590",
+    "original_repository_sha": "148c210ebf0517276e761298e012087074d6e18d",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
     "title": "Awesome Hacker News with stars"
