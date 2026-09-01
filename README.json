@@ -179,7 +179,7 @@
                 "open_issues": 1,
                 "owner": "mrmekon",
                 "repo": "toucHNews",
-                "stars": 193,
+                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
@@ -207,7 +207,7 @@
                 "open_issues": 38,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1613,
+                "stars": 1615,
                 "topics": [
                   "android",
                   "android-app",
@@ -297,7 +297,7 @@
                 "open_issues": 38,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1613,
+                "stars": 1615,
                 "topics": [
                   "android",
                   "android-app",
@@ -449,7 +449,7 @@
                 "open_issues": 6,
                 "owner": "clarete",
                 "repo": "hackernews.el",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "emacs",
                   "emacs-lisp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:42:03.794Z",
+    "last_updated": "2026-09-01T17:27:29.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1416,
+      "stars": 1417,
       "topics": [
         "awesome",
         "awesome-list",
