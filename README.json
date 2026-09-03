@@ -203,7 +203,7 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T11:18:21Z",
+                "last_commit": "2026-09-03T08:35:05Z",
                 "open_issues": 31,
                 "owner": "Livinglist",
                 "repo": "Hacki",
@@ -293,7 +293,7 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T11:18:21Z",
+                "last_commit": "2026-09-03T08:35:05Z",
                 "open_issues": 31,
                 "owner": "Livinglist",
                 "repo": "Hacki",
@@ -503,7 +503,7 @@
                 "open_issues": 42,
                 "owner": "donnemartin",
                 "repo": "haxor-news",
-                "stars": 4089,
+                "stars": 4088,
                 "topics": [
                   "cli",
                   "client",
@@ -698,7 +698,7 @@
                 "license": "WTFPL",
                 "last_commit": "2013-05-12T18:54:14Z",
                 "open_issues": 0,
-                "owner": "chronick",
+                "owner": "algonormative",
                 "repo": "node-hn",
                 "stars": 3,
                 "topics": []
@@ -788,7 +788,7 @@
             "open_issues": 36,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3789,
+            "stars": 3788,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:24:14.576Z",
+    "last_updated": "2026-09-03T17:17:02.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
