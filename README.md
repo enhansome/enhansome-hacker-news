@@ -185,7 +185,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### iOS
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,616 | 🐛 31 | 🌐 Dart | 📅 2026-09-03
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,617 | 🐛 31 | 🌐 Dart | 📅 2026-09-03
 * [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 86 | 🐛 0 | 🌐 Swift | 📅 2026-08-29
 * [iHNews](https://github.com/guidefreitas/iHNews) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2012-04-25
 * [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
@@ -204,7 +204,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,616 | 🐛 31 | 🌐 Dart | 📅 2026-09-03
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,617 | 🐛 31 | 🌐 Dart | 📅 2026-09-03
 * [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 578 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 497 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 227 | 🐛 60 | 🌐 Java | 📅 2016-08-25
@@ -240,7 +240,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Command Line
 
 * [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,088 | 🐛 42 | 🌐 Python | 📅 2022-04-22
-* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,067 | 🐛 1 | 🌐 Go | 📅 2026-08-31
+* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,068 | 🐛 1 | 🌐 Go | 📅 2026-08-31
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2023-03-17
 * [Hacker Top](https://github.com/pkrumins/hacker-top) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2011-12-11
@@ -281,4 +281,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
