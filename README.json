@@ -540,7 +540,7 @@
                 "open_issues": 1,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2069,
+                "stars": 2068,
                 "topics": [
                   "cli",
                   "client",
@@ -788,7 +788,7 @@
             "open_issues": 36,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3788,
+            "stars": 3789,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:18:59.120Z",
+    "last_updated": "2026-09-10T17:14:49.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
