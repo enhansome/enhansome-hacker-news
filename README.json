@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:17:20.781Z",
+    "last_updated": "2026-09-12T16:30:47.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1420,
+      "stars": 1421,
       "topics": [
         "awesome",
         "awesome-list",
