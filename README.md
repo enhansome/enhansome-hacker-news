@@ -205,7 +205,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Android
 
 * [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,618 | 🐛 36 | 🌐 Dart | 📅 2026-09-07
-* [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 578 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
+* [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 579 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 497 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 227 | 🐛 60 | 🌐 Java | 📅 2016-08-25
 * [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader) ⭐ 25 | 🐛 7 | 🌐 Java | 📅 2018-12-11
@@ -281,4 +281,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
