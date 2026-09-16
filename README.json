@@ -537,10 +537,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-14T10:54:00Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2070,
+                "stars": 2071,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:46:26.664Z",
+    "last_updated": "2026-09-16T17:45:01.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
