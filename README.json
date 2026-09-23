@@ -207,7 +207,7 @@
                 "open_issues": 32,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1621,
+                "stars": 1623,
                 "topics": [
                   "android",
                   "android-app",
@@ -297,7 +297,7 @@
                 "open_issues": 32,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1621,
+                "stars": 1623,
                 "topics": [
                   "android",
                   "android-app",
@@ -540,7 +540,7 @@
                 "open_issues": 2,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2075,
+                "stars": 2076,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:46:16.857Z",
+    "last_updated": "2026-09-23T17:58:56.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1422,
+      "stars": 1423,
       "topics": [
         "awesome",
         "awesome-list",
