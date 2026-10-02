@@ -55,6 +55,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 * [Hacker News Books](https://hackernewsbooks.com/)
 * [Hacker News Daily](http://www.daemonology.net/hn-daily/)
 * [Hacker News in Chinese](https://hn.buzzing.cc/)
+* [HN Top10](https://news.archerlab.dev) – Daily top 10 Hacker News stories translated and summarized in Korean
 * [Hacker News Rankings](http://hnrankings.info/)
 * [Hacker News Reader PWA App](https://app.hn-reader.com)
 * [Hacker News Summary](https://hackernews.betacat.io/)
@@ -239,7 +240,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Command Line
 
-* [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,091 | 🐛 42 | 🌐 Python | 📅 2022-04-22
+* [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,090 | 🐛 42 | 🌐 Python | 📅 2022-04-22
 * [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,098 | 🐛 3 | 🌐 Go | 📅 2026-09-28
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2023-03-17
@@ -281,4 +282,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

@@ -503,7 +503,7 @@
                 "open_issues": 42,
                 "owner": "donnemartin",
                 "repo": "haxor-news",
-                "stars": 4091,
+                "stars": 4090,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:03:35.601Z",
+    "last_updated": "2026-10-02T18:42:47.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -827,7 +827,7 @@
       "id": 33075597,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-31T11:22:37Z",
+      "last_commit": "2026-10-02T15:45:26Z",
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
@@ -841,7 +841,7 @@
         "hn"
       ]
     },
-    "original_repository_sha": "148c210ebf0517276e761298e012087074d6e18d",
+    "original_repository_sha": "6a3320f654b2fc4132013cf3ffdd476e4a561c3f",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
     "title": "Awesome Hacker News with stars"
