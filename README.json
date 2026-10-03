@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "hnlinks",
-              "description": null,
+              "description": "dit7ya/hnlinks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -34,7 +34,7 @@
             {
               "node_type": "item",
               "title": "HN Unread Comments",
-              "description": null,
+              "description": "janhancic/hn-unread-comments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,7 +55,7 @@
             {
               "node_type": "item",
               "title": "hnHiringFilter",
-              "description": null,
+              "description": "janhancic/hnHiringFilter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "HN Favourite Users",
-              "description": null,
+              "description": "janhancic/hn-favourite-users",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "Modern Hacker News Userstyle",
-              "description": null,
+              "description": "losuler/hacker-news-userstyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -139,7 +139,7 @@
             {
               "node_type": "item",
               "title": "HNReader",
-              "description": null,
+              "description": "mattrighetti/HNReaderApp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "touchHNews",
-              "description": null,
+              "description": "mrmekon/toucHNews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -194,7 +194,7 @@
             {
               "node_type": "item",
               "title": "Hacki for Hacker News",
-              "description": null,
+              "description": "Livinglist/Hacki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
                 "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1626,
+                "stars": 1625,
                 "topics": [
                   "android",
                   "android-app",
@@ -227,7 +227,7 @@
             {
               "node_type": "item",
               "title": "Gem for Hacker News",
-              "description": null,
+              "description": "Livinglist/Gem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -256,7 +256,7 @@
             {
               "node_type": "item",
               "title": "iHNews",
-              "description": null,
+              "description": "guidefreitas/iHNews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "Hacki for Hacker News",
-              "description": null,
+              "description": "Livinglist/Hacki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
                 "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1626,
+                "stars": 1625,
                 "topics": [
                   "android",
                   "android-app",
@@ -317,7 +317,7 @@
             {
               "node_type": "item",
               "title": "Glider for Hacker News",
-              "description": null,
+              "description": "Mosc/Glider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -338,7 +338,7 @@
             {
               "node_type": "item",
               "title": "HN-Android",
-              "description": null,
+              "description": "manmal/hn-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "Hacker News client for Android",
-              "description": null,
+              "description": "bishopmatthew/HackerNews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "Pumpkin Reader",
-              "description": null,
+              "description": "pumpkinz/pumpkin-reader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -408,7 +408,7 @@
             {
               "node_type": "item",
               "title": "Sublime Hacker News Reader",
-              "description": null,
+              "description": "Dimillian/Sublime-Hacker-News-Reader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -436,7 +436,7 @@
             {
               "node_type": "item",
               "title": "Hacker News Emacs Client",
-              "description": null,
+              "description": "clarete/hackernews.el",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
             {
               "node_type": "item",
               "title": "Gnus Backend",
-              "description": null,
+              "description": "dickmao/nnhackernews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "Haxor-News",
-              "description": null,
+              "description": "donnemartin/haxor-news",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,7 +527,7 @@
             {
               "node_type": "item",
               "title": "Circumflex",
-              "description": null,
+              "description": "bensadeh/circumflex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -561,7 +561,7 @@
             {
               "node_type": "item",
               "title": "Pyhn",
-              "description": null,
+              "description": "toxinu/pyhn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -582,7 +582,7 @@
             {
               "node_type": "item",
               "title": "Hacker News ncurses CLI",
-              "description": null,
+              "description": "andrewstuart/hn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -603,7 +603,7 @@
             {
               "node_type": "item",
               "title": "Hacker Top",
-              "description": null,
+              "description": "pkrumins/hacker-top",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -624,7 +624,7 @@
             {
               "node_type": "item",
               "title": "Hackernews CLI",
-              "description": null,
+              "description": "mtharrison/hackernews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -645,7 +645,7 @@
             {
               "node_type": "item",
               "title": "Gohn",
-              "description": null,
+              "description": "gedex/gohn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -666,7 +666,7 @@
             {
               "node_type": "item",
               "title": "HackerFeed",
-              "description": null,
+              "description": "pratyushprakash/HackerFeed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -687,7 +687,7 @@
             {
               "node_type": "item",
               "title": "Node HackerNews",
-              "description": null,
+              "description": "algonormative/node-hn",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -715,7 +715,7 @@
             {
               "node_type": "item",
               "title": "Alfred Hacker News Workflow",
-              "description": null,
+              "description": "loris/alfred-hackernews-workflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "Pebble HN",
-              "description": null,
+              "description": "luisivan/pebble-hn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -775,7 +775,7 @@
         {
           "node_type": "item",
           "title": "Hacker News Undocumented Features and Behaviors",
-          "description": null,
+          "description": "minimaxir/hacker-news-undocumented",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -796,7 +796,7 @@
         {
           "node_type": "item",
           "title": "Hacker News Groups",
-          "description": null,
+          "description": "antontarasenko/hacker-news-groups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:42:47.591Z",
+    "last_updated": "2026-10-03T04:47:28.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1422,
+      "stars": 1423,
       "topics": [
         "awesome",
         "awesome-list",
