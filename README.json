@@ -536,7 +536,7 @@
                 "id": 283105657,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-03T06:40:28Z",
+                "last_commit": "2026-10-04T10:29:53Z",
                 "open_issues": 2,
                 "owner": "bensadeh",
                 "repo": "circumflex",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:37:59.695Z",
+    "last_updated": "2026-10-04T17:51:36.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1423,
+      "stars": 1424,
       "topics": [
         "awesome",
         "awesome-list",
