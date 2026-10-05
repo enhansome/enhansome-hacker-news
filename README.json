@@ -203,11 +203,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T09:37:13Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-05T09:42:25Z",
+                "open_issues": 42,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1626,
+                "stars": 1628,
                 "topics": [
                   "android",
                   "android-app",
@@ -293,11 +293,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T09:37:13Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-05T09:42:25Z",
+                "open_issues": 42,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1626,
+                "stars": 1628,
                 "topics": [
                   "android",
                   "android-app",
@@ -503,7 +503,7 @@
                 "open_issues": 42,
                 "owner": "donnemartin",
                 "repo": "haxor-news",
-                "stars": 4090,
+                "stars": 4091,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:51:36.611Z",
+    "last_updated": "2026-10-05T21:17:56.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
