@@ -203,11 +203,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T09:42:25Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-10T16:12:20Z",
+                "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "android",
                   "android-app",
@@ -293,11 +293,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T09:42:25Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-10T16:12:20Z",
+                "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "android",
                   "android-app",
@@ -540,7 +540,7 @@
                 "open_issues": 3,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2096,
+                "stars": 2097,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:01:23.272Z",
+    "last_updated": "2026-10-10T18:02:32.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 1,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1427,
+      "stars": 1428,
       "topics": [
         "awesome",
         "awesome-list",
