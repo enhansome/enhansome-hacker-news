@@ -157,6 +157,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 * [HN discussions for the current page](https://discu.eu/extension/)
 * [Drake Rossman's Extension written in Rust WASM](https://drakerossman.com/blog/hackernews-userscript-in-rust-wasm)
 * [Hacker News Tools](https://chromewebstore.google.com/detail/hacker-news-tools/flhbhgflcehfhimejnjadbfpebhhaopi)
+* [Comment Scraper](https://chromewebstore.google.com/detail/gblklncgcjcinpjaaeafmmkjnfkihmfn)
 
 ### Userscripts
 
@@ -267,7 +268,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,793 | 🐛 34 | 📅 2026-09-20
+* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,795 | 🐛 34 | 📅 2026-09-20
 * [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups) ⭐ 124 | 🐛 2 | 📅 2019-02-28
 * [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 * [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)
@@ -282,4 +283,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
