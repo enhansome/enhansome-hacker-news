@@ -203,8 +203,8 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T04:14:58Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-19T09:45:10Z",
+                "open_issues": 40,
                 "owner": "Livinglist",
                 "repo": "Hacki",
                 "stars": 1630,
@@ -293,8 +293,8 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T04:14:58Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-19T09:45:10Z",
+                "open_issues": 40,
                 "owner": "Livinglist",
                 "repo": "Hacki",
                 "stars": 1630,
@@ -330,7 +330,7 @@
                 "open_issues": 45,
                 "owner": "Mosc",
                 "repo": "Glider",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
@@ -536,8 +536,8 @@
                 "id": 283105657,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T02:57:12Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-19T09:02:51Z",
+                "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
                 "stars": 2100,
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:56:53.056Z",
+    "last_updated": "2026-10-19T19:29:49.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
