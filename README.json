@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "Livinglist",
                 "repo": "Gem",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "hacker-news",
                   "hacker-news-app",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:29:49.069Z",
+    "last_updated": "2026-10-20T18:07:31.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -828,7 +828,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-16T01:06:18Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
       "stars": 1431,

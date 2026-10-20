@@ -188,7 +188,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 * [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,630 | 🐛 40 | 🌐 Dart | 📅 2026-10-19
-* [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 89 | 🐛 0 | 🌐 Swift | 📅 2026-09-13
+* [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 88 | 🐛 0 | 🌐 Swift | 📅 2026-09-13
 * [iHNews](https://github.com/guidefreitas/iHNews) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2012-04-25
 * [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
 * [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
@@ -283,4 +283,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
