@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2100,
+                "stars": 2102,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:10:30.420Z",
+    "last_updated": "2026-10-23T17:57:56.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
