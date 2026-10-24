@@ -207,7 +207,7 @@
                 "open_issues": 40,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1633,
+                "stars": 1634,
                 "topics": [
                   "android",
                   "android-app",
@@ -297,7 +297,7 @@
                 "open_issues": 40,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1633,
+                "stars": 1634,
                 "topics": [
                   "android",
                   "android-app",
@@ -536,11 +536,11 @@
                 "id": 283105657,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-19T09:02:51Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-24T04:25:40Z",
+                "open_issues": 3,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2102,
+                "stars": 2101,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:57:56.135Z",
+    "last_updated": "2026-10-24T17:00:13.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -827,11 +827,11 @@
       "id": 33075597,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-16T01:06:18Z",
+      "last_commit": "2026-10-24T04:35:22Z",
       "open_issues": 3,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1432,
+      "stars": 1433,
       "topics": [
         "awesome",
         "awesome-list",
@@ -841,7 +841,7 @@
         "hn"
       ]
     },
-    "original_repository_sha": "b6c3f1f0768bf49641d62b6a888441fb8c75de90",
+    "original_repository_sha": "3024b22d18ca8a6913422baa017b52457114b32a",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
     "title": "Awesome Hacker News with stars"
