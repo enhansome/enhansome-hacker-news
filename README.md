@@ -243,7 +243,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Command Line
 
 * [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,090 | 🐛 42 | 🌐 Python | 📅 2022-04-22
-* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,101 | 🐛 3 | 🌐 Go | 📅 2026-10-24
+* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,102 | 🐛 3 | 🌐 Go | 📅 2026-10-24
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2023-03-17
 * [Hacker Top](https://github.com/pkrumins/hacker-top) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2011-12-11
@@ -269,7 +269,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,796 | 🐛 34 | 📅 2026-09-20
+* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,795 | 🐛 34 | 📅 2026-09-20
 * [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups) ⭐ 124 | 🐛 2 | 📅 2019-02-28
 * [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 * [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)
@@ -284,4 +284,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
