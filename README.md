@@ -188,8 +188,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### iOS
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,636 | 🐛 43 | 🌐 Dart | 📅 2026-10-30
-* [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 88 | 🐛 0 | 🌐 Swift | 📅 2026-09-13
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,638 | 🐛 43 | 🌐 Dart | 📅 2026-10-30
+* [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 89 | 🐛 0 | 🌐 Swift | 📅 2026-09-13
 * [iHNews](https://github.com/guidefreitas/iHNews) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2012-04-25
 * [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
 * [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
@@ -207,8 +207,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,636 | 🐛 43 | 🌐 Dart | 📅 2026-10-30
-* [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 579 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,638 | 🐛 43 | 🌐 Dart | 📅 2026-10-30
+* [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 580 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 497 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 227 | 🐛 60 | 🌐 Java | 📅 2016-08-25
 * [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader) ⭐ 25 | 🐛 7 | 🌐 Java | 📅 2018-12-11
@@ -284,4 +284,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
