@@ -208,7 +208,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Android
 
 * [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,638 | 🐛 43 | 🌐 Dart | 📅 2026-10-30
-* [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 580 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
+* [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 579 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 497 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 227 | 🐛 60 | 🌐 Java | 📅 2016-08-25
 * [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader) ⭐ 25 | 🐛 7 | 🌐 Java | 📅 2018-12-11
@@ -243,7 +243,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Command Line
 
 * [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,092 | 🐛 42 | 🌐 Python | 📅 2022-04-22
-* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,105 | 🐛 4 | 🌐 Go | 📅 2026-10-24
+* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,104 | 🐛 4 | 🌐 Go | 📅 2026-10-24
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2023-03-17
 * [Hacker Top](https://github.com/pkrumins/hacker-top) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2011-12-11
@@ -284,4 +284,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

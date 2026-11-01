@@ -330,7 +330,7 @@
                 "open_issues": 45,
                 "owner": "Mosc",
                 "repo": "Glider",
-                "stars": 580,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2105,
+                "stars": 2104,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:56:22.453Z",
+    "last_updated": "2026-11-01T18:36:02.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -828,10 +828,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-24T04:35:22Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1435,
+      "stars": 1436,
       "topics": [
         "awesome",
         "awesome-list",
