@@ -148,8 +148,8 @@
                 "id": 376884445,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2023-11-05T13:56:47Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-02T21:11:10Z",
+                "open_issues": 1,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
                 "stars": 195,
@@ -203,11 +203,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T05:52:00Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-02T09:51:41Z",
+                "open_issues": 45,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1638,
+                "stars": 1640,
                 "topics": [
                   "android",
                   "android-app",
@@ -293,11 +293,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T05:52:00Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-02T09:51:41Z",
+                "open_issues": 45,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1638,
+                "stars": 1640,
                 "topics": [
                   "android",
                   "android-app",
@@ -372,7 +372,7 @@
                 "open_issues": 60,
                 "owner": "bishopmatthew",
                 "repo": "HackerNews",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
@@ -536,11 +536,11 @@
                 "id": 283105657,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-24T04:25:40Z",
+                "last_commit": "2026-11-02T15:13:40Z",
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2104,
+                "stars": 2106,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:36:02.523Z",
+    "last_updated": "2026-11-02T22:28:38.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 4,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1436,
+      "stars": 1437,
       "topics": [
         "awesome",
         "awesome-list",
