@@ -148,11 +148,11 @@
                 "id": 376884445,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T00:50:34Z",
+                "last_commit": "2026-11-05T18:33:17Z",
                 "open_issues": 0,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "application",
                   "hacker-news",
@@ -207,7 +207,7 @@
                 "open_issues": 46,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1639,
+                "stars": 1640,
                 "topics": [
                   "android",
                   "android-app",
@@ -297,7 +297,7 @@
                 "open_issues": 46,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1639,
+                "stars": 1640,
                 "topics": [
                   "android",
                   "android-app",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:33:17.928Z",
+    "last_updated": "2026-11-05T20:49:54.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
