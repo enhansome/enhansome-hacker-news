@@ -148,7 +148,7 @@
                 "id": 376884445,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T18:33:17Z",
+                "last_commit": "2026-11-06T14:25:48Z",
                 "open_issues": 0,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2108,
+                "stars": 2109,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:49:54.237Z",
+    "last_updated": "2026-11-06T20:05:58.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",

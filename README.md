@@ -174,7 +174,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### macOS
 
-* [HNReader](https://github.com/mattrighetti/HNReaderApp) ⭐ 196 | 🐛 0 | 🌐 Swift | 📅 2026-11-05
+* [HNReader](https://github.com/mattrighetti/HNReaderApp) ⭐ 196 | 🐛 0 | 🌐 Swift | 📅 2026-11-06
 * [touchHNews](https://github.com/mrmekon/toucHNews) ⭐ 192 | 🐛 1 | 🌐 Rust | 📅 2021-08-13
 * [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 * [Hacker News Reader](https://www.hn-reader.com)
@@ -243,7 +243,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Command Line
 
 * [Haxor-News](https://github.com/donnemartin/haxor-news) ⭐ 4,091 | 🐛 42 | 🌐 Python | 📅 2022-04-22
-* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,108 | 🐛 4 | 🌐 Go | 📅 2026-11-02
+* [Circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,109 | 🐛 4 | 🌐 Go | 📅 2026-11-02
 * [Pyhn](https://github.com/socketubs/pyhn) ⭐ 385 | 🐛 4 | 🌐 Python | 📅 2026-06-15
 * [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2023-03-17
 * [Hacker Top](https://github.com/pkrumins/hacker-top) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2011-12-11
@@ -284,4 +284,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
