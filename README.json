@@ -143,16 +143,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Hacker News client for macOS",
+                "description": "Hacker News client for macOS and iOS",
                 "homepage": null,
                 "id": 376884445,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T16:28:15Z",
+                "last_commit": "2026-11-11T16:20:45Z",
                 "open_issues": 0,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "application",
                   "hacker-news",
@@ -203,11 +203,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T00:31:10Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-12T03:20:25Z",
+                "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1642,
+                "stars": 1643,
                 "topics": [
                   "android",
                   "android-app",
@@ -293,11 +293,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T00:31:10Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-12T03:20:25Z",
+                "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1642,
+                "stars": 1643,
                 "topics": [
                   "android",
                   "android-app",
@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2111,
+                "stars": 2112,
                 "topics": [
                   "cli",
                   "client",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:37:10.658Z",
+    "last_updated": "2026-11-12T21:07:31.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -831,7 +831,7 @@
       "open_issues": 5,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1435,
+      "stars": 1436,
       "topics": [
         "awesome",
         "awesome-list",
