@@ -203,8 +203,8 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T03:20:25Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-13T20:29:39Z",
+                "open_issues": 33,
                 "owner": "Livinglist",
                 "repo": "Hacki",
                 "stars": 1643,
@@ -293,8 +293,8 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T03:20:25Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-13T20:29:39Z",
+                "open_issues": 33,
                 "owner": "Livinglist",
                 "repo": "Hacki",
                 "stars": 1643,
@@ -788,7 +788,7 @@
             "open_issues": 34,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3794,
+            "stars": 3825,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:07:31.176Z",
+    "last_updated": "2026-11-13T20:39:43.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
