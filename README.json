@@ -203,7 +203,7 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T11:03:43Z",
+                "last_commit": "2026-11-15T18:23:55Z",
                 "open_issues": 35,
                 "owner": "Livinglist",
                 "repo": "Hacki",
@@ -236,8 +236,8 @@
                 "id": 518728775,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T20:15:01Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-15T11:39:19Z",
+                "open_issues": 1,
                 "owner": "Livinglist",
                 "repo": "Gem",
                 "stars": 89,
@@ -293,7 +293,7 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T11:03:43Z",
+                "last_commit": "2026-11-15T18:23:55Z",
                 "open_issues": 35,
                 "owner": "Livinglist",
                 "repo": "Hacki",
@@ -330,7 +330,7 @@
                 "open_issues": 45,
                 "owner": "Mosc",
                 "repo": "Glider",
-                "stars": 580,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
@@ -788,7 +788,7 @@
             "open_issues": 34,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3827,
+            "stars": 3830,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:51:59.617Z",
+    "last_updated": "2026-11-15T19:28:03.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
