@@ -152,7 +152,7 @@
                 "open_issues": 1,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
-                "stars": 197,
+                "stars": 196,
                 "topics": [
                   "application",
                   "hacker-news",
@@ -203,11 +203,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T02:30:06Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-20T15:05:30Z",
+                "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1645,
+                "stars": 1644,
                 "topics": [
                   "android",
                   "android-app",
@@ -293,11 +293,11 @@
                 "id": 441600120,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T02:30:06Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-20T15:05:30Z",
+                "open_issues": 36,
                 "owner": "Livinglist",
                 "repo": "Hacki",
-                "stars": 1645,
+                "stars": 1644,
                 "topics": [
                   "android",
                   "android-app",
@@ -330,7 +330,7 @@
                 "open_issues": 45,
                 "owner": "Mosc",
                 "repo": "Glider",
-                "stars": 581,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:11.353Z"
@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2112,
+                "stars": 2111,
                 "topics": [
                   "cli",
                   "client",
@@ -788,7 +788,7 @@
             "open_issues": 34,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3844,
+            "stars": 3847,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:50:06.088Z",
+    "last_updated": "2026-11-20T21:33:25.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -827,11 +827,11 @@
       "id": 33075597,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-24T04:35:22Z",
+      "last_commit": "2026-11-20T00:48:47Z",
       "open_issues": 6,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1437,
+      "stars": 1438,
       "topics": [
         "awesome",
         "awesome-list",
@@ -841,7 +841,7 @@
         "hn"
       ]
     },
-    "original_repository_sha": "3024b22d18ca8a6913422baa017b52457114b32a",
+    "original_repository_sha": "10a9d1e8b2768323b0793122922d5890ffaa5493",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
     "title": "Awesome Hacker News with stars"
