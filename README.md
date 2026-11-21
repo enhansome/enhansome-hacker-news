@@ -188,7 +188,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### macOS
 
-* [HNReader](https://github.com/mattrighetti/HNReaderApp) ⭐ 196 | 🐛 1 | 🌐 Swift | 📅 2026-11-16
+* [HNReader](https://github.com/mattrighetti/HNReaderApp) ⭐ 196 | 🐛 1 | 🌐 Swift | 📅 2026-11-21
 * [touchHNews](https://github.com/mrmekon/toucHNews) ⭐ 192 | 🐛 1 | 🌐 Rust | 📅 2021-08-13
 * [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 * [Hacker News Reader](https://www.hn-reader.com)
@@ -202,7 +202,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### iOS
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,644 | 🐛 36 | 🌐 Dart | 📅 2026-11-20
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,644 | 🐛 37 | 🌐 Dart | 📅 2026-11-21
 * [Gem for Hacker News](https://github.com/Livinglist/Gem) ⭐ 90 | 🐛 1 | 🌐 Swift | 📅 2026-11-15
 * [iHNews](https://github.com/guidefreitas/iHNews) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2012-04-25
 * [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
@@ -221,7 +221,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,644 | 🐛 36 | 🌐 Dart | 📅 2026-11-20
+* [Hacki for Hacker News](https://github.com/Livinglist/Hacki) ⭐ 1,644 | 🐛 37 | 🌐 Dart | 📅 2026-11-21
 * [Glider for Hacker News](https://github.com/Mosc/Glider) ⭐ 580 | 🐛 45 | 🌐 Dart | 📅 2024-07-01
 * [HN-Android](https://github.com/manmal/hn-android/) ⭐ 497 | 🐛 34 | 🌐 Java | 📅 2024-06-02
 * [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) ⭐ 228 | 🐛 60 | 🌐 Java | 📅 2016-08-25
@@ -283,7 +283,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,847 | 🐛 34 | 📅 2026-09-20
+* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,849 | 🐛 34 | 📅 2026-09-20
 * [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups) ⭐ 123 | 🐛 2 | 📅 2019-02-28
 * [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 * [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)
@@ -298,4 +298,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
