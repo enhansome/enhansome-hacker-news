@@ -283,7 +283,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,850 | 🐛 34 | 📅 2026-09-20
+* [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ⭐ 3,851 | 🐛 34 | 📅 2026-09-20
 * [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups) ⭐ 123 | 🐛 2 | 📅 2019-02-28
 * [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 * [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)
@@ -298,4 +298,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
