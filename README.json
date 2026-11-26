@@ -148,8 +148,8 @@
                 "id": 376884445,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T12:18:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-25T23:25:41Z",
+                "open_issues": 0,
                 "owner": "mattrighetti",
                 "repo": "HNReaderApp",
                 "stars": 197,
@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": [
                   "cli",
                   "client",
@@ -788,7 +788,7 @@
             "open_issues": 34,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3851,
+            "stars": 3852,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:48:52.096Z",
+    "last_updated": "2026-11-26T22:37:19.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -827,11 +827,11 @@
       "id": 33075597,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-20T00:48:47Z",
+      "last_commit": "2026-11-26T12:38:58Z",
       "open_issues": 7,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
-      "stars": 1441,
+      "stars": 1442,
       "topics": [
         "awesome",
         "awesome-list",
@@ -841,7 +841,7 @@
         "hn"
       ]
     },
-    "original_repository_sha": "10a9d1e8b2768323b0793122922d5890ffaa5493",
+    "original_repository_sha": "33b13e6737a1b40705b78a2cd977594866041181",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
     "title": "Awesome Hacker News with stars"
