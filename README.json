@@ -503,7 +503,7 @@
                 "open_issues": 42,
                 "owner": "donnemartin",
                 "repo": "haxor-news",
-                "stars": 4090,
+                "stars": 4091,
                 "topics": [
                   "cli",
                   "client",
@@ -540,7 +540,7 @@
                 "open_issues": 4,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2111,
+                "stars": 2112,
                 "topics": [
                   "cli",
                   "client",
@@ -788,7 +788,7 @@
             "open_issues": 34,
             "owner": "minimaxir",
             "repo": "hacker-news-undocumented",
-            "stars": 3852,
+            "stars": 3854,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:11.353Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:37:19.681Z",
+    "last_updated": "2026-11-27T22:21:27.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.",
@@ -827,7 +827,7 @@
       "id": 33075597,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-26T12:38:58Z",
+      "last_commit": "2026-11-27T00:57:18Z",
       "open_issues": 7,
       "owner": "cheeaun",
       "repo": "awesome-hacker-news",
@@ -841,7 +841,7 @@
         "hn"
       ]
     },
-    "original_repository_sha": "33b13e6737a1b40705b78a2cd977594866041181",
+    "original_repository_sha": "eba81691c48da97eb9a4d39d40e66eb4f4c56e1d",
     "enhanced_repository": "enhansome/enhansome-hacker-news",
     "enhanced_repository_description": null,
     "title": "Awesome Hacker News with stars"
